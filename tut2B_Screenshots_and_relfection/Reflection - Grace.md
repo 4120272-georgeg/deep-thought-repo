@@ -1,3 +1,0 @@
-Accessing a repository via Git and editing files using Vim was a new experience for me. Many of the challenges I faced stemmed from my lack of experience. However, the more I used the commands and became familiar with the syntax, the easier the process became. One of the main challenges I encountered was the absence of the make command and the issue of g++ not being found. I was able to resolve these issues quickly by simply installing each of them.
-
-This tutorial challenged me to learn more about Vim and how to properly edit files, which, I admit, was the most challenging part of the tutorial for me. Other than that, I mostly relied on the knowledge I gained from previous tutorials, as well as the support from my teammates, who were a great help.
